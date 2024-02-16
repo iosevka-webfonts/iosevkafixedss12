@@ -2,5 +2,5 @@
 
 ## How to use
 
-- Add `<link href="https://iosevka-webfonts.github.io/iosevkafixedss12/iosevkafixedss12.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevkafixedss12 Web'` or `font-family: 'Iosevkafixedss12 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevkafixedss12/IosevkaFixedSS12.css" rel="stylesheet" />` to your `<head>`.
+- Check out the [CSS file](./IosevkaFixedSS12.css) for browsing the name of font family.
